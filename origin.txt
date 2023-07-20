@@ -1,0 +1,1352 @@
+Uri: https://charleshehe.framer.ai/
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\index.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/agdasima/v2/PN_zRfyxp2f1fUCgAPgzpTnr_w.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\agdasima\v2\PN_zRfyxp2f1fUCgAPgzpTnr_w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/agdasima/v2/PN_zRfyxp2f1fUCgAPg9pTk.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\agdasima\v2\PN_zRfyxp2f1fUCgAPg9pTk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZNhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZNhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZxhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZxhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZBhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZBhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZFhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZFhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hiA.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hiA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTk3j77e.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTk3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3j77e.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTs3j77e.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTs3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTo3j77e.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTo3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3jw.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3jw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZthiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZthiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZNhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZNhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZxhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZxhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZBhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZBhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhiI2B.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhiI2B.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hiA.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hiA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v6/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244fNgc6L.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\unbounded\v6\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244fNgc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v6/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2447Ngc6L.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\unbounded\v6\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2447Ngc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v6/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244XNgc6L.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\unbounded\v6\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244XNgc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v6/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244TNgc6L.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\unbounded\v6\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244TNgc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v6/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244rNgQ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\s\unbounded\v6\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244rNgQ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.cyrillic-ext-BHDA65O4.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.cyrillic-ext-BHDA65O4.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.cyrillic-Q5IXHU2O.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.cyrillic-Q5IXHU2O.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.greek-ext-VVOQA2NE.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.greek-ext-VVOQA2NE.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.greek-E3WNEUH6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.greek-E3WNEUH6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.latin-ext-5RC4NRHN.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.latin-ext-5RC4NRHN.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.latin-GJ7CRGHG.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.latin-GJ7CRGHG.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Thin.vietnamese-Z3Y7DPWO.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Thin.vietnamese-Z3Y7DPWO.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.cyrillic-ext-7NWKXNAT.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.cyrillic-ext-7NWKXNAT.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.cyrillic-IBWUD6RJ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.cyrillic-IBWUD6RJ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.greek-ext-HUMDTRBU.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.greek-ext-HUMDTRBU.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.greek-ZLLHEEN3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.greek-ZLLHEEN3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.latin-ext-72JE5FGU.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.latin-ext-72JE5FGU.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.latin-2JHDAFAQ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.latin-2JHDAFAQ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLight.vietnamese-VKRCA4VC.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLight.vietnamese-VKRCA4VC.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.cyrillic-ext-G3OTPKE4.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.cyrillic-ext-G3OTPKE4.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.cyrillic-JO7ZJTP6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.cyrillic-JO7ZJTP6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.greek-ext-N63XCCK3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.greek-ext-N63XCCK3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.greek-5GVUXSXZ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.greek-5GVUXSXZ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.latin-ext-RREJIMQ3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.latin-ext-RREJIMQ3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.latin-EKF76FXR.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.latin-EKF76FXR.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Light.vietnamese-GVC2UOFS.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Light.vietnamese-GVC2UOFS.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.cyrillic-ext-CFTLRB35.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.cyrillic-ext-CFTLRB35.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.cyrillic-KKLZBALH.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.cyrillic-KKLZBALH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.greek-ext-ULEBLIFV.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.greek-ext-ULEBLIFV.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.greek-IRHSNFQB.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.greek-IRHSNFQB.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.latin-ext-VZDUGU3Q.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.latin-ext-VZDUGU3Q.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.latin-JLQMKCHE.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.latin-JLQMKCHE.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.vietnamese-QK7VSWXK.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Regular.vietnamese-QK7VSWXK.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.cyrillic-ext-M4WHNGTS.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.cyrillic-ext-M4WHNGTS.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.cyrillic-JVU2PANX.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.cyrillic-JVU2PANX.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.greek-ext-4KCQBEIZ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.greek-ext-4KCQBEIZ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.greek-DPOQGN7L.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.greek-DPOQGN7L.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.latin-ext-J4DBSW7F.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.latin-ext-J4DBSW7F.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.latin-Y3IVPL46.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.latin-Y3IVPL46.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Medium.vietnamese-PJV76O4P.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Medium.vietnamese-PJV76O4P.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.cyrillic-ext-C7KWUKA7.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.cyrillic-ext-C7KWUKA7.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.cyrillic-JWV7SOZ6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.cyrillic-JWV7SOZ6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.greek-ext-FBKSFTSU.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.greek-ext-FBKSFTSU.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.greek-EQ3PSENU.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.greek-EQ3PSENU.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.latin-ext-ULRSO3ZR.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.latin-ext-ULRSO3ZR.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.latin-RDYY2AG2.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.latin-RDYY2AG2.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBold.vietnamese-ESQNSEQ3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBold.vietnamese-ESQNSEQ3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.cyrillic-ext-XOTVL7ZR.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.cyrillic-ext-XOTVL7ZR.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.cyrillic-6LOMBC2V.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.cyrillic-6LOMBC2V.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.greek-ext-WXWSJXLB.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.greek-ext-WXWSJXLB.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.greek-YRST7ODZ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.greek-YRST7ODZ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.latin-ext-BASA5UL3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.latin-ext-BASA5UL3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.latin-UCM45LQF.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.latin-UCM45LQF.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Bold.vietnamese-OEVJMXEP.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Bold.vietnamese-OEVJMXEP.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.cyrillic-ext-7Q6SVIPE.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.cyrillic-ext-7Q6SVIPE.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.cyrillic-JSLPE6KW.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.cyrillic-JSLPE6KW.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.greek-ext-6OYGJJV7.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.greek-ext-6OYGJJV7.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.greek-SHW2FPC4.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.greek-SHW2FPC4.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.latin-ext-A5DUFOP6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.latin-ext-A5DUFOP6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.latin-OW4UGSRU.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.latin-OW4UGSRU.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBold.vietnamese-IBBC7NGV.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBold.vietnamese-IBBC7NGV.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.cyrillic-ext-TU4ITVTR.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.cyrillic-ext-TU4ITVTR.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.cyrillic-JX7CGTYD.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.cyrillic-JX7CGTYD.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.greek-ext-LS3GCBFI.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.greek-ext-LS3GCBFI.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.greek-ZWCJHBP5.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.greek-ZWCJHBP5.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.latin-ext-BZLEUMX6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.latin-ext-BZLEUMX6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.latin-TETRYDF7.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.latin-TETRYDF7.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Black.vietnamese-RXQCC3EJ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Black.vietnamese-RXQCC3EJ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.cyrillic-ext-2RGKWUBV.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.cyrillic-ext-2RGKWUBV.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.cyrillic-TDYIP5HV.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.cyrillic-TDYIP5HV.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.greek-ext-WR4TIDYZ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.greek-ext-WR4TIDYZ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.greek-V3WZMSP7.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.greek-V3WZMSP7.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.latin-ext-TXFTJONQ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.latin-ext-TXFTJONQ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.latin-RVEBKP6O.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.latin-RVEBKP6O.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ThinItalic.vietnamese-WCBPP4MD.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ThinItalic.vietnamese-WCBPP4MD.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.cyrillic-ext-OVCHMVPD.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.cyrillic-ext-OVCHMVPD.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.cyrillic-BRDZE5UH.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.cyrillic-BRDZE5UH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.greek-ext-YV64YFFH.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.greek-ext-YV64YFFH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.greek-EJVCLASM.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.greek-EJVCLASM.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.latin-ext-2MHTM56A.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.latin-ext-2MHTM56A.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.latin-JB3CJMMM.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.latin-JB3CJMMM.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.vietnamese-3EJ3IQYS.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraLightItalic.vietnamese-3EJ3IQYS.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.cyrillic-ext-C2S5XS3D.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.cyrillic-ext-C2S5XS3D.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.cyrillic-E7CYPW5D.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.cyrillic-E7CYPW5D.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.greek-ext-ROSAFPGE.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.greek-ext-ROSAFPGE.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.greek-PAWWH37Z.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.greek-PAWWH37Z.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.latin-ext-N2Z67Z45.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.latin-ext-N2Z67Z45.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.latin-SLSTLWEU.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.latin-SLSTLWEU.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-LightItalic.vietnamese-RLGM2D3Y.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-LightItalic.vietnamese-RLGM2D3Y.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.cyrillic-ext-YDGMJOJO.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.cyrillic-ext-YDGMJOJO.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.cyrillic-BFOVMAQB.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.cyrillic-BFOVMAQB.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.greek-ext-4KOU3AHC.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.greek-ext-4KOU3AHC.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.greek-OJTBJNE6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.greek-OJTBJNE6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.latin-ext-H4B22QN6.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.latin-ext-H4B22QN6.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.latin-2DWX32EN.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.latin-2DWX32EN.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Italic.vietnamese-TYMT6CKW.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-Italic.vietnamese-TYMT6CKW.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.cyrillic-ext-QYBZQ2NF.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.cyrillic-ext-QYBZQ2NF.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.cyrillic-ZHAJHZCC.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.cyrillic-ZHAJHZCC.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.greek-ext-W5ABYGZR.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.greek-ext-W5ABYGZR.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.greek-RGNSYVNV.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.greek-RGNSYVNV.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.latin-ext-7DZEPSAS.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.latin-ext-7DZEPSAS.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.latin-SKPQAMBJ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.latin-SKPQAMBJ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-MediumItalic.vietnamese-23WIFZV7.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-MediumItalic.vietnamese-23WIFZV7.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.cyrillic-ext-MEHHCDC3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.cyrillic-ext-MEHHCDC3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.cyrillic-YACNRNDE.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.cyrillic-YACNRNDE.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.greek-ext-GFL7KADI.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.greek-ext-GFL7KADI.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.greek-5W77OPRT.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.greek-5W77OPRT.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.latin-ext-OYJJ2W6R.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.latin-ext-OYJJ2W6R.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.latin-KBLJMBDH.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.latin-KBLJMBDH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.vietnamese-5ZFOV65G.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-SemiBoldItalic.vietnamese-5ZFOV65G.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.cyrillic-ext-PEYDHC3S.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.cyrillic-ext-PEYDHC3S.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.cyrillic-7EIL6JWG.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.cyrillic-7EIL6JWG.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.greek-ext-3DJOYQMH.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.greek-ext-3DJOYQMH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.greek-TJBTLTT7.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.greek-TJBTLTT7.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.latin-ext-FVPCPRBJ.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.latin-ext-FVPCPRBJ.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.latin-5ZFQS4XK.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.latin-5ZFQS4XK.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BoldItalic.vietnamese-W2625PGF.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BoldItalic.vietnamese-W2625PGF.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.cyrillic-ext-ACWDZ3VD.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.cyrillic-ext-ACWDZ3VD.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.cyrillic-ZKBSDAI2.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.cyrillic-ZKBSDAI2.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.greek-ext-3CY5DPTP.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.greek-ext-3CY5DPTP.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.greek-YL5CC63W.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.greek-YL5CC63W.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.latin-ext-7IZFJI4D.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.latin-ext-7IZFJI4D.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.latin-O5HH4IX3.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.latin-O5HH4IX3.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.vietnamese-UW3XUJOD.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-ExtraBoldItalic.vietnamese-UW3XUJOD.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.cyrillic-ext-TRM4ITYR.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.cyrillic-ext-TRM4ITYR.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.cyrillic-FPHIQVZS.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.cyrillic-FPHIQVZS.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.greek-ext-JTGUUSP5.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.greek-ext-JTGUUSP5.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.greek-LUNA3RFO.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.greek-LUNA3RFO.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.latin-ext-KU7ICFYH.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.latin-ext-KU7ICFYH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.latin-FRVXWQSB.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.latin-FRVXWQSB.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-BlackItalic.vietnamese-2Q7MQKJX.woff2
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\Inter-BlackItalic.vietnamese-2Q7MQKJX.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/sites/icons/default-favicon.v3.png
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\icons\default-favicon.v3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-JML3PZAS.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-JML3PZAS.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-64M33LEV.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-64M33LEV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-ELYU6EKT.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-ELYU6EKT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/-foaqOxFZq9iOv_l-DB_iEg2sfB7VgQw9DzAGQ4iR9M.ARWGCASZ.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\-foaqOxFZq9iOv_l-DB_iEg2sfB7VgQw9DzAGQ4iR9M.ARWGCASZ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-E5GOBMHO.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-E5GOBMHO.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-67HG6YQ4.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-67HG6YQ4.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-JYJM4YNH.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-JYJM4YNH.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-YE3EUSKK.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-YE3EUSKK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-42U43NKG.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-42U43NKG.mjs
+Content Type: text/javascript
+
+Uri: https://charleshehe.framer.ai/stage
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\stage.html
+Content Type: text/html
+
+Uri: https://charleshehe.framer.ai/view
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\view.html
+Content Type: text/html
+
+Uri: https://charleshehe.framer.ai/people
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\people.html
+Content Type: text/html
+
+Uri: https://charleshehe.framer.ai/humanities
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\humanities.html
+Content Type: text/html
+
+Uri: https://charleshehe.framer.ai/food
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\food.html
+Content Type: text/html
+
+Uri: https://framerusercontent.com/images/fO1E9q2Qljnn5xfykZ9DgbIdEDo.png
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\fO1E9q2Qljnn5xfykZ9DgbIdEDo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/modules/assets/UtZRZKFqqZxUltUUdzu47xbr74I~huetDvGTTMANuq1gmQMmViyp0Y14-gxVxSNmCIqqaDw.mp4
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\modules\assets\UtZRZKFqqZxUltUUdzu47xbr74I~huetDvGTTMANuq1gmQMmViyp0Y14-gxVxSNmCIqqaDw.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/images/2qRJaD8ds54RVtFIUL3O5t3ERU.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2qRJaD8ds54RVtFIUL3O5t3ERU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ahighPV52Vs4iswoRGONhUoPw.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ahighPV52Vs4iswoRGONhUoPw.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/modules/assets/xahtEJOJ8GVhyhpj4zhMXD3s0Uk~pmoX06Ehlkyt-brzYUU5KTtWAp4Fdok65t8qsdkduO0.mp4
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\modules\assets\xahtEJOJ8GVhyhpj4zhMXD3s0Uk~pmoX06Ehlkyt-brzYUU5KTtWAp4Fdok65t8qsdkduO0.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/images/2VBQTCGwBJOHMwlEoKCtGzQ0tc.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2VBQTCGwBJOHMwlEoKCtGzQ0tc.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/V76pvYtegvq0HCCY6yNvgfPLws.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\V76pvYtegvq0HCCY6yNvgfPLws.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axzIRyY5AWadEBHz6kWqeiOpf8I.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\axzIRyY5AWadEBHz6kWqeiOpf8I.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/zrqHyam4Gw5gJMAa1qz8HRvIU.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\zrqHyam4Gw5gJMAa1qz8HRvIU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/_script0.STU3BXI4.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\_script0.STU3BXI4.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/images/fO1E9q2Qljnn5xfykZ9DgbIdEDo.png?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\fO1E9q2Qljnn5xfykZ9DgbIdEDo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fO1E9q2Qljnn5xfykZ9DgbIdEDo.png?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\fO1E9q2Qljnn5xfykZ9DgbIdEDo-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2qRJaD8ds54RVtFIUL3O5t3ERU.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2qRJaD8ds54RVtFIUL3O5t3ERU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2qRJaD8ds54RVtFIUL3O5t3ERU.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2qRJaD8ds54RVtFIUL3O5t3ERU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ahighPV52Vs4iswoRGONhUoPw.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ahighPV52Vs4iswoRGONhUoPw-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ahighPV52Vs4iswoRGONhUoPw.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ahighPV52Vs4iswoRGONhUoPw-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2VBQTCGwBJOHMwlEoKCtGzQ0tc.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2VBQTCGwBJOHMwlEoKCtGzQ0tc-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2VBQTCGwBJOHMwlEoKCtGzQ0tc.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2VBQTCGwBJOHMwlEoKCtGzQ0tc-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2VBQTCGwBJOHMwlEoKCtGzQ0tc.jpg?scale-down-to=2048
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\2VBQTCGwBJOHMwlEoKCtGzQ0tc-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/V76pvYtegvq0HCCY6yNvgfPLws.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\V76pvYtegvq0HCCY6yNvgfPLws-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/V76pvYtegvq0HCCY6yNvgfPLws.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\V76pvYtegvq0HCCY6yNvgfPLws-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axzIRyY5AWadEBHz6kWqeiOpf8I.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\axzIRyY5AWadEBHz6kWqeiOpf8I-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axzIRyY5AWadEBHz6kWqeiOpf8I.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\axzIRyY5AWadEBHz6kWqeiOpf8I-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/zrqHyam4Gw5gJMAa1qz8HRvIU.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\zrqHyam4Gw5gJMAa1qz8HRvIU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/zrqHyam4Gw5gJMAa1qz8HRvIU.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\zrqHyam4Gw5gJMAa1qz8HRvIU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/I1UQjIfr1E7zVphQptT7XVl3xB3W1ZW3lds1EVRzF_M.AALSPDLV.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\I1UQjIfr1E7zVphQptT7XVl3xB3W1ZW3lds1EVRzF_M.AALSPDLV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-3BPYKISZ.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-3BPYKISZ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/images/kd1hjE4IrgPDZoft1L3okB80bG4.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kd1hjE4IrgPDZoft1L3okB80bG4.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5e9hfl7PhtxnTipTIwDVoQUTZc.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5e9hfl7PhtxnTipTIwDVoQUTZc.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lefgV2s1j9km8ZAfyrvkehjzrTc.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\lefgV2s1j9km8ZAfyrvkehjzrTc.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iNu40Fx0makLX8mgfTz4dWO8V0.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\iNu40Fx0makLX8mgfTz4dWO8V0.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fJCmb1tOE64hNhJvta9oDHcoKE.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\fJCmb1tOE64hNhJvta9oDHcoKE.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/eEgv1v3EDlPkFrl17AeblcbDe7Y.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\eEgv1v3EDlPkFrl17AeblcbDe7Y.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7OL5yNHJMCuH8Dm838gjq6UXmY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\7OL5yNHJMCuH8Dm838gjq6UXmY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/MQblBqHTra45CSW2fFlOgY5vBc.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\MQblBqHTra45CSW2fFlOgY5vBc.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kd1hjE4IrgPDZoft1L3okB80bG4.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kd1hjE4IrgPDZoft1L3okB80bG4-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kd1hjE4IrgPDZoft1L3okB80bG4.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kd1hjE4IrgPDZoft1L3okB80bG4-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5e9hfl7PhtxnTipTIwDVoQUTZc.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5e9hfl7PhtxnTipTIwDVoQUTZc-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5e9hfl7PhtxnTipTIwDVoQUTZc.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5e9hfl7PhtxnTipTIwDVoQUTZc-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lefgV2s1j9km8ZAfyrvkehjzrTc.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\lefgV2s1j9km8ZAfyrvkehjzrTc-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lefgV2s1j9km8ZAfyrvkehjzrTc.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\lefgV2s1j9km8ZAfyrvkehjzrTc-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iNu40Fx0makLX8mgfTz4dWO8V0.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\iNu40Fx0makLX8mgfTz4dWO8V0-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iNu40Fx0makLX8mgfTz4dWO8V0.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\iNu40Fx0makLX8mgfTz4dWO8V0-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fJCmb1tOE64hNhJvta9oDHcoKE.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\fJCmb1tOE64hNhJvta9oDHcoKE-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fJCmb1tOE64hNhJvta9oDHcoKE.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\fJCmb1tOE64hNhJvta9oDHcoKE-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/eEgv1v3EDlPkFrl17AeblcbDe7Y.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\eEgv1v3EDlPkFrl17AeblcbDe7Y-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/eEgv1v3EDlPkFrl17AeblcbDe7Y.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\eEgv1v3EDlPkFrl17AeblcbDe7Y-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7OL5yNHJMCuH8Dm838gjq6UXmY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\7OL5yNHJMCuH8Dm838gjq6UXmY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7OL5yNHJMCuH8Dm838gjq6UXmY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\7OL5yNHJMCuH8Dm838gjq6UXmY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/MQblBqHTra45CSW2fFlOgY5vBc.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\MQblBqHTra45CSW2fFlOgY5vBc-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/MQblBqHTra45CSW2fFlOgY5vBc.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\MQblBqHTra45CSW2fFlOgY5vBc-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/vYqEB72VIcCJ5AkPU_CXWMOzGJzI2gxjDu6NR6eb2Iw.5XELBCVM.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\vYqEB72VIcCJ5AkPU_CXWMOzGJzI2gxjDu6NR6eb2Iw.5XELBCVM.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-HDHGT5LF.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-HDHGT5LF.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/images/kECQH3qSz4EzZhLtQEjSRuxb9NY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kECQH3qSz4EzZhLtQEjSRuxb9NY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aQzTyVqjbsLePLXaOcV0XpziAY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\aQzTyVqjbsLePLXaOcV0XpziAY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SMxxFxAuzCx8fpyQsM3AOTb5RYQ.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SMxxFxAuzCx8fpyQsM3AOTb5RYQ.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wCMSyiaRfPw0rSByt4sgJopBdA.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\wCMSyiaRfPw0rSByt4sgJopBdA.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZzrV7gsSjUm92QlkjtiVVgqU.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ZzrV7gsSjUm92QlkjtiVVgqU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wLsuEnTDu1N0YoGPr57eGh6QoXs.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\wLsuEnTDu1N0YoGPr57eGh6QoXs.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SxfJwIs14C7VjckDBfzcq9Nz78.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SxfJwIs14C7VjckDBfzcq9Nz78.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5jsk6FciWSEjn3aaTfnjMiLM.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5jsk6FciWSEjn3aaTfnjMiLM.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/flG9B6apH180UhlF34Qd9ApWDHg.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\flG9B6apH180UhlF34Qd9ApWDHg.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kECQH3qSz4EzZhLtQEjSRuxb9NY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kECQH3qSz4EzZhLtQEjSRuxb9NY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kECQH3qSz4EzZhLtQEjSRuxb9NY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kECQH3qSz4EzZhLtQEjSRuxb9NY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aQzTyVqjbsLePLXaOcV0XpziAY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\aQzTyVqjbsLePLXaOcV0XpziAY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aQzTyVqjbsLePLXaOcV0XpziAY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\aQzTyVqjbsLePLXaOcV0XpziAY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SMxxFxAuzCx8fpyQsM3AOTb5RYQ.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SMxxFxAuzCx8fpyQsM3AOTb5RYQ-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SMxxFxAuzCx8fpyQsM3AOTb5RYQ.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SMxxFxAuzCx8fpyQsM3AOTb5RYQ-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wCMSyiaRfPw0rSByt4sgJopBdA.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\wCMSyiaRfPw0rSByt4sgJopBdA-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wCMSyiaRfPw0rSByt4sgJopBdA.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\wCMSyiaRfPw0rSByt4sgJopBdA-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZzrV7gsSjUm92QlkjtiVVgqU.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ZzrV7gsSjUm92QlkjtiVVgqU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZzrV7gsSjUm92QlkjtiVVgqU.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ZzrV7gsSjUm92QlkjtiVVgqU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wLsuEnTDu1N0YoGPr57eGh6QoXs.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\wLsuEnTDu1N0YoGPr57eGh6QoXs-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wLsuEnTDu1N0YoGPr57eGh6QoXs.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\wLsuEnTDu1N0YoGPr57eGh6QoXs-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SxfJwIs14C7VjckDBfzcq9Nz78.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SxfJwIs14C7VjckDBfzcq9Nz78-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SxfJwIs14C7VjckDBfzcq9Nz78.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SxfJwIs14C7VjckDBfzcq9Nz78-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5jsk6FciWSEjn3aaTfnjMiLM.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5jsk6FciWSEjn3aaTfnjMiLM-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5jsk6FciWSEjn3aaTfnjMiLM.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5jsk6FciWSEjn3aaTfnjMiLM-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/flG9B6apH180UhlF34Qd9ApWDHg.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\flG9B6apH180UhlF34Qd9ApWDHg-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/flG9B6apH180UhlF34Qd9ApWDHg.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\flG9B6apH180UhlF34Qd9ApWDHg-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/5Okf9wysMUQqJD6WEcV3XWiKQsjc19ytpn7QybcOs-A.XQHM6SDA.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\5Okf9wysMUQqJD6WEcV3XWiKQsjc19ytpn7QybcOs-A.XQHM6SDA.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-NH2OYSPQ.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-NH2OYSPQ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/images/5bufjrc9k72AIeSpaRYnC7U2fY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5bufjrc9k72AIeSpaRYnC7U2fY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/V5O9bI2mhPhGfAwZ4fCPKvYfaU.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\V5O9bI2mhPhGfAwZ4fCPKvYfaU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DOAn00KCb4shQGdQqosBYxQwMHI.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\DOAn00KCb4shQGdQqosBYxQwMHI.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5w6P3KNwMmMejPYEbTi0Pc9Wic.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5w6P3KNwMmMejPYEbTi0Pc9Wic.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hZtnKMQSo3rjyUrRTjp7p6FZGE.jpeg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\hZtnKMQSo3rjyUrRTjp7p6FZGE.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bfEzhFjYx2oC7QfOEA51rihVuUc.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bfEzhFjYx2oC7QfOEA51rihVuUc.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SYkipgvfzm300GhB5TAdptGDko.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SYkipgvfzm300GhB5TAdptGDko.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SZVEaOAl0m6KYCIIKKAD7epgKEY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SZVEaOAl0m6KYCIIKKAD7epgKEY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5bufjrc9k72AIeSpaRYnC7U2fY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5bufjrc9k72AIeSpaRYnC7U2fY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5bufjrc9k72AIeSpaRYnC7U2fY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5bufjrc9k72AIeSpaRYnC7U2fY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/V5O9bI2mhPhGfAwZ4fCPKvYfaU.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\V5O9bI2mhPhGfAwZ4fCPKvYfaU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/V5O9bI2mhPhGfAwZ4fCPKvYfaU.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\V5O9bI2mhPhGfAwZ4fCPKvYfaU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DOAn00KCb4shQGdQqosBYxQwMHI.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\DOAn00KCb4shQGdQqosBYxQwMHI-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DOAn00KCb4shQGdQqosBYxQwMHI.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\DOAn00KCb4shQGdQqosBYxQwMHI-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5w6P3KNwMmMejPYEbTi0Pc9Wic.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5w6P3KNwMmMejPYEbTi0Pc9Wic-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5w6P3KNwMmMejPYEbTi0Pc9Wic.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\5w6P3KNwMmMejPYEbTi0Pc9Wic-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hZtnKMQSo3rjyUrRTjp7p6FZGE.jpeg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\hZtnKMQSo3rjyUrRTjp7p6FZGE-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hZtnKMQSo3rjyUrRTjp7p6FZGE.jpeg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\hZtnKMQSo3rjyUrRTjp7p6FZGE-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bfEzhFjYx2oC7QfOEA51rihVuUc.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bfEzhFjYx2oC7QfOEA51rihVuUc-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bfEzhFjYx2oC7QfOEA51rihVuUc.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bfEzhFjYx2oC7QfOEA51rihVuUc-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SYkipgvfzm300GhB5TAdptGDko.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SYkipgvfzm300GhB5TAdptGDko-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SYkipgvfzm300GhB5TAdptGDko.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SYkipgvfzm300GhB5TAdptGDko-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SZVEaOAl0m6KYCIIKKAD7epgKEY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SZVEaOAl0m6KYCIIKKAD7epgKEY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SZVEaOAl0m6KYCIIKKAD7epgKEY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\SZVEaOAl0m6KYCIIKKAD7epgKEY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/zU6wmoopBlDolhcqj8GkQ8nzQjVDL1UrF1Bpx02qu1A.KEXFYVRT.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\zU6wmoopBlDolhcqj8GkQ8nzQjVDL1UrF1Bpx02qu1A.KEXFYVRT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-D7VRTBEL.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-D7VRTBEL.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/images/YrmuwPXMi9JKiHizelT0CmivuA.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\YrmuwPXMi9JKiHizelT0CmivuA.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Odvl0YWQCicRZcfOGawS9JYSfU.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\Odvl0YWQCicRZcfOGawS9JYSfU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gzsxzaavVM88jyjykXUlukH78k0.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\gzsxzaavVM88jyjykXUlukH78k0.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZWjgp4A27fX46jYXRqPh7LS2ADY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ZWjgp4A27fX46jYXRqPh7LS2ADY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AzOePBLJ4IWpnvwHUoiDdLkPY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\AzOePBLJ4IWpnvwHUoiDdLkPY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TZkZrkVS2uYw4NvC48QcIRPCJXE.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\TZkZrkVS2uYw4NvC48QcIRPCJXE.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AheMmHS2qaKdbvwmiPTLwnIenkY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\AheMmHS2qaKdbvwmiPTLwnIenkY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CCjEmLP4GSLqyCCBz0JXle0zEMY.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\CCjEmLP4GSLqyCCBz0JXle0zEMY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/xy9fUDviU0yUxzvJEPsR3RyubQ.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\xy9fUDviU0yUxzvJEPsR3RyubQ.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bLVsDHfCjdZWzUWbBY7WrIgqb8.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bLVsDHfCjdZWzUWbBY7WrIgqb8.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OMALdx2pELvQYc57r9lZym6Brg.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\OMALdx2pELvQYc57r9lZym6Brg.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/YrmuwPXMi9JKiHizelT0CmivuA.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\YrmuwPXMi9JKiHizelT0CmivuA-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/YrmuwPXMi9JKiHizelT0CmivuA.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\YrmuwPXMi9JKiHizelT0CmivuA-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Odvl0YWQCicRZcfOGawS9JYSfU.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\Odvl0YWQCicRZcfOGawS9JYSfU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Odvl0YWQCicRZcfOGawS9JYSfU.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\Odvl0YWQCicRZcfOGawS9JYSfU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gzsxzaavVM88jyjykXUlukH78k0.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\gzsxzaavVM88jyjykXUlukH78k0-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gzsxzaavVM88jyjykXUlukH78k0.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\gzsxzaavVM88jyjykXUlukH78k0-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZWjgp4A27fX46jYXRqPh7LS2ADY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ZWjgp4A27fX46jYXRqPh7LS2ADY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZWjgp4A27fX46jYXRqPh7LS2ADY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\ZWjgp4A27fX46jYXRqPh7LS2ADY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AzOePBLJ4IWpnvwHUoiDdLkPY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\AzOePBLJ4IWpnvwHUoiDdLkPY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AzOePBLJ4IWpnvwHUoiDdLkPY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\AzOePBLJ4IWpnvwHUoiDdLkPY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TZkZrkVS2uYw4NvC48QcIRPCJXE.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\TZkZrkVS2uYw4NvC48QcIRPCJXE-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TZkZrkVS2uYw4NvC48QcIRPCJXE.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\TZkZrkVS2uYw4NvC48QcIRPCJXE-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AheMmHS2qaKdbvwmiPTLwnIenkY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\AheMmHS2qaKdbvwmiPTLwnIenkY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AheMmHS2qaKdbvwmiPTLwnIenkY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\AheMmHS2qaKdbvwmiPTLwnIenkY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CCjEmLP4GSLqyCCBz0JXle0zEMY.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\CCjEmLP4GSLqyCCBz0JXle0zEMY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CCjEmLP4GSLqyCCBz0JXle0zEMY.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\CCjEmLP4GSLqyCCBz0JXle0zEMY-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/xy9fUDviU0yUxzvJEPsR3RyubQ.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\xy9fUDviU0yUxzvJEPsR3RyubQ-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/xy9fUDviU0yUxzvJEPsR3RyubQ.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\xy9fUDviU0yUxzvJEPsR3RyubQ-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bLVsDHfCjdZWzUWbBY7WrIgqb8.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bLVsDHfCjdZWzUWbBY7WrIgqb8-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bLVsDHfCjdZWzUWbBY7WrIgqb8.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bLVsDHfCjdZWzUWbBY7WrIgqb8-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OMALdx2pELvQYc57r9lZym6Brg.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\OMALdx2pELvQYc57r9lZym6Brg-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OMALdx2pELvQYc57r9lZym6Brg.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\OMALdx2pELvQYc57r9lZym6Brg-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/Hh3wXUpcKLfTXOCt8BgIJMTZCewlQLue1ndWmgVt_2s.6GSOO6GO.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\Hh3wXUpcKLfTXOCt8BgIJMTZCewlQLue1ndWmgVt_2s.6GSOO6GO.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3pu27Jw3t44DfTY8S6s25d/chunk-PGPN75XB.mjs
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\sites\3pu27Jw3t44DfTY8S6s25d\chunk-PGPN75XB.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/images/HeZtJJyRzEWb9tiujMUKEBsJbak.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\HeZtJJyRzEWb9tiujMUKEBsJbak.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8PCrH5ied18I167qzi34JGtkg.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\8PCrH5ied18I167qzi34JGtkg.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8BX31Y1g7N8d0WfhP60P9NIBBSU.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\8BX31Y1g7N8d0WfhP60P9NIBBSU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/qU8NmWEeJGMtjydHTwB57lCQU0.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\qU8NmWEeJGMtjydHTwB57lCQU0.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M2FgvwWQJi9wXToifwL2H8paA.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\M2FgvwWQJi9wXToifwL2H8paA.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bfftEre1AjInKM3KPb7GClUPEbs.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bfftEre1AjInKM3KPb7GClUPEbs.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gyKsCTf7FZwKfWaXKR2TIjjMULE.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\gyKsCTf7FZwKfWaXKR2TIjjMULE.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/89patL8hVh6o1YZvxpw2veMr4.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\89patL8hVh6o1YZvxpw2veMr4.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kyBqAFuWdFDNoymBR9ABujbHPs.jpg
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kyBqAFuWdFDNoymBR9ABujbHPs.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HeZtJJyRzEWb9tiujMUKEBsJbak.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\HeZtJJyRzEWb9tiujMUKEBsJbak-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HeZtJJyRzEWb9tiujMUKEBsJbak.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\HeZtJJyRzEWb9tiujMUKEBsJbak-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8PCrH5ied18I167qzi34JGtkg.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\8PCrH5ied18I167qzi34JGtkg-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8PCrH5ied18I167qzi34JGtkg.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\8PCrH5ied18I167qzi34JGtkg-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8BX31Y1g7N8d0WfhP60P9NIBBSU.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\8BX31Y1g7N8d0WfhP60P9NIBBSU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8BX31Y1g7N8d0WfhP60P9NIBBSU.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\8BX31Y1g7N8d0WfhP60P9NIBBSU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/qU8NmWEeJGMtjydHTwB57lCQU0.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\qU8NmWEeJGMtjydHTwB57lCQU0-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/qU8NmWEeJGMtjydHTwB57lCQU0.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\qU8NmWEeJGMtjydHTwB57lCQU0-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M2FgvwWQJi9wXToifwL2H8paA.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\M2FgvwWQJi9wXToifwL2H8paA-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M2FgvwWQJi9wXToifwL2H8paA.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\M2FgvwWQJi9wXToifwL2H8paA-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bfftEre1AjInKM3KPb7GClUPEbs.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bfftEre1AjInKM3KPb7GClUPEbs-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bfftEre1AjInKM3KPb7GClUPEbs.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\bfftEre1AjInKM3KPb7GClUPEbs-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gyKsCTf7FZwKfWaXKR2TIjjMULE.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\gyKsCTf7FZwKfWaXKR2TIjjMULE-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gyKsCTf7FZwKfWaXKR2TIjjMULE.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\gyKsCTf7FZwKfWaXKR2TIjjMULE-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/89patL8hVh6o1YZvxpw2veMr4.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\89patL8hVh6o1YZvxpw2veMr4-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/89patL8hVh6o1YZvxpw2veMr4.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\89patL8hVh6o1YZvxpw2veMr4-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kyBqAFuWdFDNoymBR9ABujbHPs.jpg?scale-down-to=512
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kyBqAFuWdFDNoymBR9ABujbHPs-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kyBqAFuWdFDNoymBR9ABujbHPs.jpg?scale-down-to=1024
+File Name: c:\Downloaded Web Sites\charleshehe.framer.ai\images\kyBqAFuWdFDNoymBR9ABujbHPs-2.jpeg
+Content Type: image/jpeg
+
